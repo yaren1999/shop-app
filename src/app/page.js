@@ -5,6 +5,7 @@ import Categories from "@/components/Categories/Categories";
 import Promotion from "@/components/Promotion/Promotion";
 import NewArrivals from "@/components/NewArrials/NewArrials";
 import ShowCase from "@/components/ShowCase/ShowCase";
+import BestSellerProducts from "@/components/BestSellerProducts/BestSellerProducts";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
      <Categories/>
      <NewArrivals/>
      <ShowCase/>
+     <BestSellerProducts/>
     </div>
   );
 }

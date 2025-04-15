@@ -70,7 +70,7 @@
     background-color: #0051c3;
   }
   
-  /* Responsive */
+ 
 @media (max-width: 1200px) {
     .container {
       gap: 15px;
@@ -105,15 +105,15 @@
     }
   
     .title {
-      font-size: 1em; /* Başlıkları biraz küçült */
+      font-size: 1em; 
     }
   
     .desc {
-      font-size: 0.8em; /* Açıklamaları küçült */
+      font-size: 0.8em; 
     }
   
     .shopButton {
-      font-size: 0.8em; /* Buton yazısını küçült */
+      font-size: 0.8em; 
     }
   }
   
