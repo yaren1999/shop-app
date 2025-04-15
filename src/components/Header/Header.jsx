@@ -6,7 +6,7 @@ import Image from "next/image";
 import styles from "./style.module.css";
 import { MdFavorite, MdShoppingCart } from "react-icons/md";
 import { FaUser } from "react-icons/fa";
-// import products from "../../data/products.json"
+ import products from "../../data/products.json"
 import { useState } from "react";
 const Header = () => {
     const router = useRouter();
