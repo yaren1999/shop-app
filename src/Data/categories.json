@@ -1,0 +1,38 @@
+[
+    {
+        "categoryId": 1,
+        "categoryName": "Telefon",
+        "img": "/categories/smartphone-call.png"
+    },
+    {
+        "categoryId": 2,
+        "categoryName": "Masaüstü Bilgisayar",
+        "img": "/categories/monitor.png"
+    },
+    {
+        "categoryId": 3,
+        "categoryName": "Laptop",
+        "img": "/categories/laptop.png"
+    },
+    {
+        "categoryId": 4,
+        "categoryName": "Tablet",
+        "img": "/categories/tablet.png"
+    },
+    {
+        "categoryId": 5,
+        "categoryName": "Kulaklık",
+        "img": "/categories/headphone-symbol.png"
+    },
+    {
+        "categoryId": 6,
+        "categoryName": "Mouse",
+        "img": "/categories/mouse.png"
+    },
+    {
+        "categoryId": 7,
+        "categoryName": "Klavye",
+        "img": "/categories/keyboard.png"
+    }
+]
+

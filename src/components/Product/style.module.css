@@ -1,0 +1,52 @@
+
+.container {
+    width: 180px;
+ 
+    border-radius: 16px;
+    background: linear-gradient(135deg, #ffe3ec, #ccefff);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    
+}
+
+
+.container:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    background: linear-gradient(135deg, #ffd5ec, #d9f7ff);
+}
+
+
+.img {
+    width: 100%;
+    height: 110px;
+    border-radius: 12px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+
+.img:hover {
+    transform: scale(1.05);
+}
+
+
+.name {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+
+
+.price {
+    margin-top: 6px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #d63c00;
+}

@@ -1,0 +1,128 @@
+[
+    {
+        "productId": 1,
+        "productName": "iPhone 14 Pro",
+        "categoryId": 1,
+        "image": "https://productimages.hepsiburada.net/s/513/375-375/110000568470744.jpg",
+        "price": 1400,
+        "stockAmount": 50,
+        "description": "Apple'ın en yeni teknolojisiyle donatılmış güçlü bir akıllı telefon."
+    },
+    {
+        "productId": 2,
+        "productName": "Samsung Galaxy S23 Ultra",
+        "categoryId": 1,
+        "image": "https://productimages.hepsiburada.net/s/356/550/110000369658706.jpg",
+        "price": 1300,
+        "stockAmount": 40,
+        "description": "Samsung'un en gelişmiş kamerası ve güçlü işlemcisiyle üst seviye bir deneyim sunar."
+    },
+    {
+        "productId": 3,
+        "productName": "Dell XPS 8950",
+        "categoryId": 2,
+        "image": "https://platincdn.com/466/dosyalar/images/dell_tr/dell-xps-8950-01.jpg",
+        "price": 1800,
+        "stockAmount": 20,
+        "description": "Yüksek performanslı işlemcisi ve güçlü grafik kartıyla üstün bir masaüstü bilgisayar."
+    },
+    {
+        "productId": 4,
+        "productName": "HP Omen 45L",
+        "categoryId": 2,
+        "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2021/12/HP-OMEN-45L-14.jpg",
+        "price": 2200,
+        "stockAmount": 15,
+        "description": "Oyun severler için tasarlanmış, güçlü donanım özellikleriyle dikkat çeken bir model."
+    },
+    {
+        "productId": 5,
+        "productName": "MacBook Pro M2",
+        "categoryId": 3,
+        "image": "https://productimages.hepsiburada.net/s/353/375-375/110000362126716.jpg",
+        "price": 2500,
+        "stockAmount": 30,
+        "description": "M2 çipi ile üstün performans sunan Apple'ın yeni nesil dizüstü bilgisayarı."
+    },
+    {
+        "productId": 6,
+        "productName": "Asus ROG Zephyrus G14",
+        "categoryId": 3,
+        "image": "https://i0.shbdn.com/photos/55/00/17/x5_1173550017sgj.jpg",
+        "price": 2000,
+        "stockAmount": 25,
+        "description": "Güçlü donanımı ve kompakt tasarımıyla dikkat çeken oyuncu dizüstü bilgisayarı."
+    },
+    {
+        "productId": 7,
+        "productName": "iPad Pro 12.9",
+        "categoryId": 4,
+        "image": "https://i0.shbdn.com/photos/78/40/66/x5_12207840662gn.jpg",
+        "price": 1200,
+        "stockAmount": 40,
+        "description": "Güçlü işlemcisi ve Apple Pencil desteği ile profesyonel kullanıcılar için ideal tablet."
+    },
+    {
+        "productId": 8,
+        "productName": "Samsung Galaxy Tab S8",
+        "categoryId": 4,
+        "image": "https://i0.shbdn.com/photos/19/95/87/x5_1213199587shn.jpg",
+        "price": 900,
+        "stockAmount": 35,
+        "description": "Samsung'un geniş ekranı ve kalem desteğiyle dikkat çeken üst düzey tableti."
+    },
+    {
+        "productId": 9,
+        "productName": "Sony WH-1000XM5",
+        "categoryId": 5,
+        "image": "https://productimages.hepsiburada.net/s/240/375-375/110000223938780.jpg",
+        "price": 400,
+        "stockAmount": 50,
+        "description": "Gelişmiş gürültü engelleme teknolojisine sahip kablosuz kulaklık."
+    },
+    {
+        "productId": 10,
+        "productName": "Apple AirPods Pro 2",
+        "categoryId": 5,
+        "image": "https://productimages.hepsiburada.net/s/337/375-375/110000265929997.jpg",
+        "price": 250,
+        "stockAmount": 60,
+        "description": "Apple'ın yeni nesil aktif gürültü engelleyici kulaklığı."
+    },
+    {
+        "productId": 11,
+        "productName": "Logitech MX Master 3S",
+        "categoryId": 6,
+        "image": "https://m.media-amazon.com/images/I/512V4kRs2iL.jpg",
+        "price": 100,
+        "stockAmount": 45,
+        "description": "Ergonomik tasarımı ve yüksek hassasiyetiyle öne çıkan kablosuz fare."
+    },
+    {
+        "productId": 12,
+        "productName": "Razer DeathAdder V3",
+        "categoryId": 6,
+        "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/razer/thumb/136650-1_large.jpg",
+        "price": 90,
+        "stockAmount": 40,
+        "description": "Hassasiyeti ve hafif yapısıyla dikkat çeken bir oyuncu faresi."
+    },
+    {
+        "productId": 13,
+        "productName": "Corsair K95 RGB Platinum",
+        "categoryId": 7,
+        "image": "https://m.media-amazon.com/images/I/71PzW7vZNUL._AC_UF1000,1000_QL80_.jpg",
+        "price": 150,
+        "stockAmount": 30,
+        "description": "Mekanik tuşları ve RGB aydınlatmasıyla oyuncular için özel tasarlanmış klavye."
+    },
+    {
+        "productId": 14,
+        "productName": "Logitech G Pro X Keyboard",
+        "categoryId": 7,
+        "image": "https://m.media-amazon.com/images/I/61G1ggL8sqL._AC_UF1000,1000_QL80_.jpg",
+        "price": 130,
+        "stockAmount": 35,
+        "description": "Profesyonel oyuncular için tasarlanmış kompakt ve dayanıklı mekanik klavye."
+    }
+]
