@@ -91,9 +91,9 @@
     },
     {
         "productId": 11,
-        "productName": "MacBook Pro M2",
+        "productName": "MacBook Air",
         "categoryId": 3,
-        "image": "https://productimages.hepsiburada.net/s/353/375-375/110000362126716.jpg",
+        "image": "https://productimages.hepsiburada.net/s/49/375-375/10983950254130.jpg",
         "price": 2500,
         "stockAmount": 30,
         "description": "M2 çipi ile üstün performans sunan Apple'ın yeni nesil dizüstü bilgisayarı."
