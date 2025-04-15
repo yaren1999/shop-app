@@ -3,6 +3,7 @@ import styles from "./page.module.css";
 import BigPicture from "@/components/BigPicture/BigPicture";
 import Categories from "@/components/Categories/Categories";
 import Promotion from "@/components/Promotion/Promotion";
+import NewArrivals from "@/components/NewArrials/NewArrials";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
      
      <Promotion/>
      <Categories/>
+     <NewArrivals/>
     </div>
   );
 }
