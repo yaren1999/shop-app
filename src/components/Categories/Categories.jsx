@@ -10,6 +10,8 @@ const Categories = () => {
     const router = useRouter();
     return (
         <div className={styles.container}>
+             <div className={styles.title}>Browse by Category</div> {/* Başlık eklendi */}
+            
             {categories.map((c) => {
                 return (
                     <div className={styles.card} key={c.categoryId} onClick={() => router.push(`/products/${c.categoryId}`)}>
