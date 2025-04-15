@@ -79,7 +79,7 @@
     font-weight: 600;
   }
   
-  /* İki ana blok yan yana */
+
   .mainContent {
     display: flex;
     gap: 32px;
@@ -89,7 +89,7 @@
     margin-top: 80px;
   }
   
-  /* Sağdaki detay kutusu */
+  
   .detailsContainer {
     background: white;
     padding: 24px;
@@ -101,7 +101,7 @@
     align-self: flex-start;
   }
   
-  /* Başlık ve fiyatlar */
+  
   .detailsTitle {
     font-size: 22px;
     font-weight: 700;
@@ -121,7 +121,7 @@
     margin-bottom: 20px;
   }
   
-  /* Renk kutuları */
+ 
   .colorSelection label,
   .storageSelection label {
     font-weight: 600;
@@ -147,7 +147,7 @@
     border-color: #333;
   }
   
-  /* Renkler */
+  
   .black {
     background: #000;
   }
@@ -165,7 +165,7 @@
     background: #28a745;
   }
   
-  /* Depolama seçimi */
+
   .storageOptions {
     display: flex;
     gap: 10px;
@@ -190,8 +190,7 @@
     border-color: #000;
     background: #e0e0e0;
   }
-  
-  /* Butonlar */
+ 
   .actionButtons {
     display: flex;
     gap: 16px;

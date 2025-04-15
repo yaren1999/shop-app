@@ -12,7 +12,7 @@ const ProductDetailPage = ({ product }) => {
   return (
     <div className={styles.wrapper}>
       
-      {/* Breadcrumb en üstte */}
+      
       <div className={styles.breadcrumbs}>
         <span className={styles.breadcrumb}>Home</span> &gt;&nbsp;
         <span className={styles.breadcrumb}>Catalog</span> &gt;&nbsp;
@@ -21,9 +21,9 @@ const ProductDetailPage = ({ product }) => {
         <span className={styles.selectedProduct}>{product.productName}</span>
       </div>
 
-      {/* Ana içerik ikiye bölünmüş şekilde */}
+     
       <div className={styles.mainContent}>
-        {/* SENİN ORJİNAL DETAY KUTUN - ASLA DOKUNMADIM */}
+      
         <div className={styles.container}>
           <img className={styles.image} src={product.image} alt={product.productName} />
           <div className={styles.name}>{product.productName}</div>
@@ -32,7 +32,7 @@ const ProductDetailPage = ({ product }) => {
           <div className={styles.description}>{product.description}</div>
         </div>
 
-        {/* Sağdaki ek bilgiler kutusu */}
+        
         <div className={styles.detailsContainer}>
         <div className={styles.detailsTitle}>{product.productName}</div>
 
@@ -74,7 +74,7 @@ const ProductDetailPage = ({ product }) => {
         </div>
       </div>
         
-        {/* ALTTA - ÜRÜN TEKNİK ÖZELLİKLERİ */}
+        
             <div className={styles.specsSection}>
             <div className={styles.specTitle}>Details</div>
             <p className={styles.descriptionText}>
