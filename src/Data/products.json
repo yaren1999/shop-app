@@ -10,6 +10,24 @@
     },
     {
         "productId": 2,
+        "productName": "iPhone 13",
+        "categoryId": 1,
+        "image": "https://productimages.hepsiburada.net/s/189/375-375/110000155170597.jpg",
+        "price": 1400,
+        "stockAmount": 50,
+        "description": "Apple'ın en yeni teknolojisiyle donatılmış güçlü bir akıllı telefon."
+    },
+    {
+        "productId": 3,
+        "productName": "SAMSUNG Z FLIP",
+        "categoryId": 1,
+        "image": "https://productimages.hepsiburada.net/s/105/550/110000048206558.jpg",
+        "price": 1300,
+        "stockAmount": 40,
+        "description": "Samsung'un en gelişmiş kamerası ve güçlü işlemcisiyle üst seviye bir deneyim sunar."
+    },
+    {
+        "productId": 4,
         "productName": "Samsung Galaxy S23 Ultra",
         "categoryId": 1,
         "image": "https://productimages.hepsiburada.net/s/356/550/110000369658706.jpg",
@@ -18,7 +36,16 @@
         "description": "Samsung'un en gelişmiş kamerası ve güçlü işlemcisiyle üst seviye bir deneyim sunar."
     },
     {
-        "productId": 3,
+        "productId": 5,
+        "productName": "XIAOMI 11",
+        "categoryId": 1,
+        "image": "https://images.hepsiburada.net/assets/Telefon/ProductDesc/HBV00000TOMQ-11.png",
+        "price": 1300,
+        "stockAmount": 40,
+        "description": "Samsung'un en gelişmiş kamerası ve güçlü işlemcisiyle üst seviye bir deneyim sunar."
+    },
+    {
+        "productId": 6,
         "productName": "Dell XPS 8950",
         "categoryId": 2,
         "image": "https://platincdn.com/466/dosyalar/images/dell_tr/dell-xps-8950-01.jpg",
@@ -27,7 +54,25 @@
         "description": "Yüksek performanslı işlemcisi ve güçlü grafik kartıyla üstün bir masaüstü bilgisayar."
     },
     {
-        "productId": 4,
+        "productId": 7,
+        "productName": " HP Computer",
+        "categoryId": 2,
+        "image": "https://images.hepsiburada.net/description-assets/description-prod-30/064110dd-bad2-48cd-aa48-8e0bfb46766d.jpg",
+        "price": 1800,
+        "stockAmount": 20,
+        "description": "Yüksek performanslı işlemcisi ve güçlü grafik kartıyla üstün bir masaüstü bilgisayar."
+    },
+    {
+        "productId": 8,
+        "productName": " Casper Nirvana",
+        "categoryId": 2,
+        "image": "https://productimages.hepsiburada.net/s/777/375/110000721315174.jpg/format:webp",
+        "price": 1800,
+        "stockAmount": 20,
+        "description": "Yüksek performanslı işlemcisi ve güçlü grafik kartıyla üstün bir masaüstü bilgisayar."
+    },
+    {
+        "productId": 9,
         "productName": "HP Omen 45L",
         "categoryId": 2,
         "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2021/12/HP-OMEN-45L-14.jpg",
@@ -36,7 +81,16 @@
         "description": "Oyun severler için tasarlanmış, güçlü donanım özellikleriyle dikkat çeken bir model."
     },
     {
-        "productId": 5,
+        "productId": 10,
+        "productName": "ASUS",
+        "categoryId": 2,
+        "image": "https://m.media-amazon.com/images/I/619IpCH2niL._AC_UF1000,1000_QL80_.jpg",
+        "price": 2200,
+        "stockAmount": 15,
+        "description": "Oyun severler için tasarlanmış, güçlü donanım özellikleriyle dikkat çeken bir model."
+    },
+    {
+        "productId": 11,
         "productName": "MacBook Pro M2",
         "categoryId": 3,
         "image": "https://productimages.hepsiburada.net/s/353/375-375/110000362126716.jpg",
@@ -45,7 +99,25 @@
         "description": "M2 çipi ile üstün performans sunan Apple'ın yeni nesil dizüstü bilgisayarı."
     },
     {
-        "productId": 6,
+        "productId": 12,
+        "productName": "ASUS Rog",
+        "categoryId": 3,
+        "image": "https://productimages.hepsiburada.net/s/373/375/110000390557210.jpg/format:webp",
+        "price": 2500,
+        "stockAmount": 30,
+        "description": "M2 çipi ile üstün performans sunan Apple'ın yeni nesil dizüstü bilgisayarı."
+    },
+    {
+        "productId": 13,
+        "productName": "Monster Notebook",
+        "categoryId": 3,
+        "image": "https://productimages.hepsiburada.net/s/777/375-375/110000815301284.jpg",
+        "price": 2500,
+        "stockAmount": 30,
+        "description": "M2 çipi ile üstün performans sunan Apple'ın yeni nesil dizüstü bilgisayarı."
+    },
+    {
+        "productId": 14,
         "productName": "Asus ROG Zephyrus G14",
         "categoryId": 3,
         "image": "https://i0.shbdn.com/photos/55/00/17/x5_1173550017sgj.jpg",
@@ -54,7 +126,16 @@
         "description": "Güçlü donanımı ve kompakt tasarımıyla dikkat çeken oyuncu dizüstü bilgisayarı."
     },
     {
-        "productId": 7,
+        "productId": 15,
+        "productName": "Casper excalibur",
+        "categoryId": 3,
+        "image": "https://productimages.hepsiburada.net/s/442/222-222/110000475908843.jpg",
+        "price": 2000,
+        "stockAmount": 25,
+        "description": "Güçlü donanımı ve kompakt tasarımıyla dikkat çeken oyuncu dizüstü bilgisayarı."
+    },
+    {
+        "productId": 16,
         "productName": "iPad Pro 12.9",
         "categoryId": 4,
         "image": "https://i0.shbdn.com/photos/78/40/66/x5_12207840662gn.jpg",
@@ -63,7 +144,34 @@
         "description": "Güçlü işlemcisi ve Apple Pencil desteği ile profesyonel kullanıcılar için ideal tablet."
     },
     {
-        "productId": 8,
+        "productId": 17,
+        "productName": "Samsung Tablet",
+        "categoryId": 4,
+        "image": "https://productimages.hepsiburada.net/s/203/375-375/110000177118127.jpg",
+        "price": 1200,
+        "stockAmount": 40,
+        "description": "Güçlü işlemcisi ve Apple Pencil desteği ile profesyonel kullanıcılar için ideal tablet."
+    },
+    {
+        "productId": 18,
+        "productName": "Huawei Tablet",
+        "categoryId": 4,
+        "image": "https://productimages.hepsiburada.net/s/43/375-375/10761060679730.jpg",
+        "price": 1200,
+        "stockAmount": 40,
+        "description": "Güçlü işlemcisi ve Apple Pencil desteği ile profesyonel kullanıcılar için ideal tablet."
+    },
+    {
+        "productId": 19,
+        "productName": "Lenova Tablet",
+        "categoryId": 4,
+        "image": "https://productimages.hepsiburada.net/s/424/375-375/110000454620713.jpg",
+        "price": 1200,
+        "stockAmount": 40,
+        "description": "Güçlü işlemcisi ve Apple Pencil desteği ile profesyonel kullanıcılar için ideal tablet."
+    },
+    {
+        "productId": 20,
         "productName": "Samsung Galaxy Tab S8",
         "categoryId": 4,
         "image": "https://i0.shbdn.com/photos/19/95/87/x5_1213199587shn.jpg",
@@ -72,7 +180,7 @@
         "description": "Samsung'un geniş ekranı ve kalem desteğiyle dikkat çeken üst düzey tableti."
     },
     {
-        "productId": 9,
+        "productId": 21,
         "productName": "Sony WH-1000XM5",
         "categoryId": 5,
         "image": "https://productimages.hepsiburada.net/s/240/375-375/110000223938780.jpg",
@@ -81,7 +189,25 @@
         "description": "Gelişmiş gürültü engelleme teknolojisine sahip kablosuz kulaklık."
     },
     {
-        "productId": 10,
+        "productId": 22,
+        "productName": "Apple AirPods",
+        "categoryId": 5,
+        "image": "https://productimages.hepsiburada.net/s/337/375-375/110000342985382.jpg",
+        "price": 400,
+        "stockAmount": 50,
+        "description": "Gelişmiş gürültü engelleme teknolojisine sahip kablosuz kulaklık."
+    },
+    {
+        "productId": 23,
+        "productName": "JBL kulaklık",
+        "categoryId": 5,
+        "image": "https://productimages.hepsiburada.net/s/452/375-375/110000487156575.jpg",
+        "price": 400,
+        "stockAmount": 50,
+        "description": "Gelişmiş gürültü engelleme teknolojisine sahip kablosuz kulaklık."
+    },
+    {
+        "productId": 24,
         "productName": "Apple AirPods Pro 2",
         "categoryId": 5,
         "image": "https://productimages.hepsiburada.net/s/337/375-375/110000265929997.jpg",
@@ -90,7 +216,16 @@
         "description": "Apple'ın yeni nesil aktif gürültü engelleyici kulaklığı."
     },
     {
-        "productId": 11,
+        "productId": 25,
+        "productName": "Marshall Kulaklık",
+        "categoryId": 5,
+        "image": "https://productimages.hepsiburada.net/s/777/424-600/110000709224858.jpg",
+        "price": 250,
+        "stockAmount": 60,
+        "description": "Apple'ın yeni nesil aktif gürültü engelleyici kulaklığı."
+    },
+    {
+        "productId": 26,
         "productName": "Logitech MX Master 3S",
         "categoryId": 6,
         "image": "https://m.media-amazon.com/images/I/512V4kRs2iL.jpg",
@@ -99,7 +234,7 @@
         "description": "Ergonomik tasarımı ve yüksek hassasiyetiyle öne çıkan kablosuz fare."
     },
     {
-        "productId": 12,
+        "productId": 27,
         "productName": "Razer DeathAdder V3",
         "categoryId": 6,
         "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/razer/thumb/136650-1_large.jpg",
@@ -108,7 +243,34 @@
         "description": "Hassasiyeti ve hafif yapısıyla dikkat çeken bir oyuncu faresi."
     },
     {
-        "productId": 13,
+        "productId": 28,
+        "productName": "Hodor Mouse",
+        "categoryId": 6,
+        "image": "https://productimages.hepsiburada.net/s/38/375-375/10596827856946.jpg",
+        "price": 90,
+        "stockAmount": 40,
+        "description": "Hassasiyeti ve hafif yapısıyla dikkat çeken bir oyuncu faresi."
+    },
+    {
+        "productId": 29,
+        "productName": "Azemax mouse",
+        "categoryId": 6,
+        "image": "https://productimages.hepsiburada.net/s/153/375-375/110000109154122.jpg",
+        "price": 90,
+        "stockAmount": 40,
+        "description": "Hassasiyeti ve hafif yapısıyla dikkat çeken bir oyuncu faresi."
+    },
+    {
+        "productId": 30,
+        "productName": "GameTech Pro",
+        "categoryId": 6,
+        "image": "https://productimages.hepsiburada.net/s/162/375/110000120572473.jpg/format:webp",
+        "price": 90,
+        "stockAmount": 40,
+        "description": "Hassasiyeti ve hafif yapısıyla dikkat çeken bir oyuncu faresi."
+    },
+    {
+        "productId": 31,
         "productName": "Corsair K95 RGB Platinum",
         "categoryId": 7,
         "image": "https://m.media-amazon.com/images/I/71PzW7vZNUL._AC_UF1000,1000_QL80_.jpg",
@@ -117,12 +279,39 @@
         "description": "Mekanik tuşları ve RGB aydınlatmasıyla oyuncular için özel tasarlanmış klavye."
     },
     {
-        "productId": 14,
+        "productId": 32,
         "productName": "Logitech G Pro X Keyboard",
         "categoryId": 7,
         "image": "https://m.media-amazon.com/images/I/61G1ggL8sqL._AC_UF1000,1000_QL80_.jpg",
         "price": 130,
         "stockAmount": 35,
         "description": "Profesyonel oyuncular için tasarlanmış kompakt ve dayanıklı mekanik klavye."
+    },
+    {
+        "productId": 31,
+        "productName": "RGB Aydınlatmalı",
+        "categoryId": 7,
+        "image": "https://productimages.hepsiburada.net/s/163/375-375/110000121864133.jpg",
+        "price": 150,
+        "stockAmount": 30,
+        "description": "Mekanik tuşları ve RGB aydınlatmasıyla oyuncular için özel tasarlanmış klavye."
+    },
+    {
+        "productId": 32,
+        "productName": "HaouriQi",
+        "categoryId": 7,
+        "image": "https://productimages.hepsiburada.net/s/358/375-375/110000372266150.jpg",
+        "price": 150,
+        "stockAmount": 30,
+        "description": "Mekanik tuşları ve RGB aydınlatmasıyla oyuncular için özel tasarlanmış klavye."
+    },
+    {
+        "productId": 33,
+        "productName": "Concord Klavye",
+        "categoryId": 7,
+        "image": "https://productimages.hepsiburada.net/s/48/375-375/10965265645618.jpg",
+        "price": 150,
+        "stockAmount": 30,
+        "description": "Mekanik tuşları ve RGB aydınlatmasıyla oyuncular için özel tasarlanmış klavye."
     }
 ]

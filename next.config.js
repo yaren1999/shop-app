@@ -6,7 +6,8 @@ const nextConfig = {
             "static1.xdaimages.com",
             "i0.shbdn.com",
             "m.media-amazon.com",
-            "cdn.vatanbilgisayar.com"
+            "cdn.vatanbilgisayar.com",
+            "images.hepsiburada.net"
         ],
 
     },
