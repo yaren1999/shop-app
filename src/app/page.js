@@ -4,6 +4,7 @@ import BigPicture from "@/components/BigPicture/BigPicture";
 import Categories from "@/components/Categories/Categories";
 import Promotion from "@/components/Promotion/Promotion";
 import NewArrivals from "@/components/NewArrials/NewArrials";
+import ShowCase from "@/components/ShowCase/ShowCase";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
      <Promotion/>
      <Categories/>
      <NewArrivals/>
+     <ShowCase/>
     </div>
   );
 }
